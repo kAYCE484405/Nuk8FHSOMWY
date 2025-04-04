@@ -127,7 +127,6 @@ module.exports = function(grunt) {
     });
     
     // Load the plugin that provides the "browserify" task.
-    grunt.loadNpmTasks('grunt-browserify');
     
     // Load the plugin that provides the "concat" task.
     grunt.loadNpmTasks('grunt-contrib-concat');
